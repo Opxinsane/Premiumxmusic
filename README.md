@@ -47,7 +47,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/TeamAviax/AviaxMusic && cd AviaxMusic
+   git clone https://github.com/Opxinsane/Premiumxmusic && cd Premiumxmusic
    ```
 6. **Install Requirements**
    ```bash
@@ -76,9 +76,9 @@
 
 ---
 
-### 🛠 Commands & Usage
+### ⚙️ Commands & Usage
 
-The Aviax Music Bot offers a range of commands to enhance your music listening experience on Telegram:
+The Premium Music Bot offers a range of commands to enhance your music listening experience on Telegram:
 
 | Command                 | Description                                 |
 |-------------------------|---------------------------------------------|
@@ -93,9 +93,9 @@ For a full list of commands, use `/help` in [telegram](https://t.me/premiumxmusi
 
 ---
 
-### 🔄 Updates & Support
+### ⚙️ Updates & Support
 
-Stay updated with the latest features and improvements to Aviax Music Bot:
+Stay updated with the latest features and improvements to Premium Music Bot:
 
 <p align="center">
   <a href="https://telegram.me/sareefo_ki_duniya">
@@ -108,9 +108,9 @@ Stay updated with the latest features and improvements to Aviax Music Bot:
 
 ---
 
-### 🤝 Contributing
+### 🫂 Contributing
 
-We welcome contributions to the Aviax Music Bot project. If you'd like to contribute, please follow these steps:
+We welcome contributions to the Premium Music Bot project. If you'd like to contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch with a meaningful name.
