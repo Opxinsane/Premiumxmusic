@@ -1,7 +1,7 @@
 <h1 align="center">🎵 Premium Music Bot 🎵</h1>
 
 <p align="center">
-  <img src="https://graph.org/file/5d22a3b8e581d5077af07.jpg" alt="Premium Music Logo" width="600" height="250">
+  <img src="https://graph.org/file/5d22a3b8e581d5077af07.jpg" alt="Premium Music Logo" width="600" height="300">
 </p>
 
 <p align="center">
