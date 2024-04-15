@@ -1,4 +1,4 @@
-<h1 align="center">🎵 Premium Music Bot 🎵</h1>
+<h1 align="center">🎧 Premium Music Bot 🎧</h1>
 
 <p align="center">
   <img src="https://graph.org/file/5d22a3b8e581d5077af07.jpg" alt="Premium Music Logo" width="600" height="300">
@@ -15,14 +15,14 @@
 
 ---
 
-### 🌟 Features
+### ⭐ Features
 
 - 🎵 **Multiple Sources:** Play music from various platforms.
 - 📃 **Queue System:** Line up your favorite songs.
 - 🔀 **Advanced Controls:** Shuffle, repeat, and more.
 - 🎛 **Customizable Settings:** From equalizer to normalization.
-- 📢 **Crystal Clear Audio:** High-quality playback.
-- 🎚 **Volume Mastery:** Adjust to your preferred loudness.
+- 🎧 **Crystal Clear Audio:** High-quality playback.
+- 🔊 **Volume Mastery:** Adjust to your preferred loudness.
 
 ---
 
